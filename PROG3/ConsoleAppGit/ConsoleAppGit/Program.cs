@@ -11,6 +11,8 @@ namespace ConsoleAppGit
         static void Main(string[] args)
         {
             Console.WriteLine("Hola Mundo");
+            //hola
+            string mensaje = "Hola mundo";
         }
     }
 }
