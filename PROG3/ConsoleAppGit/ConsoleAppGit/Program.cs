@@ -13,6 +13,9 @@ namespace ConsoleAppGit
             Console.WriteLine("Hola Mundo");
             //hola
             string mensaje = "Hola mundo";
+
+            int numero = 0;
+
         }
     }
 }
